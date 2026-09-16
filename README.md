@@ -1,4 +1,4 @@
-# TaskFlow - Proyecto Integrador
+# Isa-Bel-7u7 - Proyecto Integrador
 
 Aplicación web sencilla para la gestión de tareas desarrollada con React.
 
